@@ -1,1 +1,19 @@
-
+**1. First download vscode**
+use the link given to download vscode to your computer.
+![Image](sc1.png) 
+**2. Connect remotely and account lookup**
+then look for your account using your username and change your password. Give it 10 min or so. 
+![Image](sc2.png)
+**3. ssh and commands**
+try a few commands such as cd cs~ ls etc. 
+![Image](sc3.png)
+**4. moving files with scp**
+try the scp command to move files. 
+![Image](sc5.png)
+**5. Ssh Keygen**
+this is a much faster way of logging in so that one doesnt have to go through the strenuous process of logging in. 
+![Image](sc6.png)
+**6. remote running**
+this is the fastest way to run remotely. this is faster 
+keystrokes: 5
+![Image](sc7.png)
